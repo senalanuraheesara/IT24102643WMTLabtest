@@ -1,1 +1,11 @@
-backend/node_modules/
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+yarn.lock
+
+# Environment variables
+.env
